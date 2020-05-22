@@ -1,0 +1,8 @@
+from,to,weight,duration,relationship
+Ego,Tanja,4,3,1
+Ego,Mate,4,2,9
+Ego,Vanessa,3,3,6
+Ego,Vivian,3,3,8
+Tanja,Mate,3,2,8
+Tanja,Vanessa,1,3,8
+Vanessa,Mate,1,1,8
